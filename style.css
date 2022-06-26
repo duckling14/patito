@@ -1,21 +1,73 @@
+
 html{
-
-
-
-
-  
+display: flex;
+  align-items: center;
 } 
 
 body {
-  height: 50%;
-  width: 50%;
-background-color:
-
-.los animales{
-  
-
+padding: 90px 100px 40px;
+align-items:center;
+display:flex;
+  flex-direction: column;
+  max-height: 100%;
+  max-width: 1000px;
+  margin: auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  border:dashed;
+  background-color:#FAF0D5   ;
+  border-right-color:green;
+  border-left-color:red;
+  border-top-color:#FFC300;
+  border-width:0.5cm;
+}
+nav{
+  background-color: #F99D21 ;
+  font-size: 15px;
+}
+nav a{
+  color: black;
+  margin-right: 15px;
+}
+nav a:hover{
+  background-color:#FFC300;
 }
 
-tittle 1{
-text-aling: center;
+
+
+  
+button{
+background-color:#6BFAEA;
+color:black;
+  border-block-color:#079C8B  ;
+}
+.music{
+  margin-right:5.6px;
+}
+.black{
+
+  margin-left:6.8px;
+}
+  .alado{
+display:flex;
+  }
+  .alado{
+    margin-left:10px;
+  }
+
+.papa{
+  color:#FF5733;
+ border: solid;  
+}
+
+.a 5{
+background:flaguer; 
+  background-size:100px 80px;
+  background-repeat:no-repeat;
+}
+
+.sub{
+color: red
+}
+
   
